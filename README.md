@@ -4,27 +4,25 @@ I’m a student and an aspiring engineer with a strong passion for learning to b
 <br><br>
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="275" alt="NUX_Octodex">
-<h3> 👨About Me </h3>
+<h3> About Me </h3>
 
 - 🤔 I’m currently learning <b>anything that garners a double take.</b>
 - 👯 I’m looking to collaborate on <b>any and all things open source.</b>
 - 🎓 Currently studying <b>Computer Science and Electronics Engineering.</b>
 - 🌱 <b>Aspiring Web/Mobile Developer and Competitive Programmer.</b>
-- ✍️ Watching Anime and trying out latest design trends as hobbies/side hustles.
-- 😄 I rewrite novel endings in my free time.
-- Contact me : pulkitdwivedi123@gmail.com
+- 💻 <b>Trying out latest technologies as a hobby.</b>
+- 😄 <b>I parody novels in my free time.</b>
+- ✍️ Contact me : pulkitdwivedi123@gmail.com
 <br><br><br>
 <hr>
 
 <img  alt="GIF" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pulkit4603&layout=compact" width="350"/><hr>
 
-<!--
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pulkit-dwivedi-504a25296" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pulkit-dwivedi-504a25296" height="30" width="40" /></a>
 <a href="https://instagram.com/poolkeet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="poolkeet" height="30" width="40" /></a>
 </p><hr>
--->
 <!--
 <h3>Languages & Tools</h3>
 <div align="left">
