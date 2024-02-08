@@ -1,8 +1,9 @@
-<h3 align="center">Hello! Welcome to my learning journey!</h3>
-
+<h3 align="center">Hello! Welcome to my learning journey!</h3><br>
+<!--<img align="center" alt="GIF" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="400" alt="animated hello"><br><br>-->
 I’m a student and an aspiring engineer with a strong passion for learning to build things that solve real world problems.
+<br><br>
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="300" alt="NUX_Octodex">
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="250" alt="NUX_Octodex">
 <h3> 👨About Me </h3>
 
 - 🤔 I’m currently learning <b>anything that garners a double take.</b>
@@ -11,7 +12,7 @@ I’m a student and an aspiring engineer with a strong passion for learning to b
 - 🌱 <b>Aspiring Web/Mobile Developer and Competitive Programmer.</b>
 - ✍️ Watching Anime and trying out latest design trends as hobbies/side hustles.
 - 😄 I rewrite novel endings in my free time.
-<br><br><br><br><br><br>
+<br><br>
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
