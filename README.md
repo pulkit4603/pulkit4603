@@ -12,7 +12,7 @@ I’m a student and an aspiring engineer with a strong passion for learning to b
 - 🌱 <b>Aspiring Web/Mobile Developer and Competitive Programmer.</b>
 - ✍️ Watching Anime and trying out latest design trends as hobbies/side hustles.
 - 😄 I rewrite novel endings in my free time.
-<br><br>
+<br><br><br>
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
