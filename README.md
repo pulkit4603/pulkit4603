@@ -17,7 +17,7 @@ I’m a student and an aspiring engineer with a strong passion for learning to b
 <hr>
 
 <img  alt="GIF" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pulkit4603&layout=compact" width="350"/><hr>
-<img  alt="GIF" src="https://github-readme-stats.vercel.app/api?username=pulkit4603&theme=gotham&show_icons=true" width="350"/><hr>
+<img  alt="GIF" src="https://github-readme-stats.vercel.app/api?username=pulkit4603&theme=gotham&show_icons=true" width="500"/><hr>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
