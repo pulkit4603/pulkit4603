@@ -2,11 +2,14 @@
 
 > I like building systems that people actually use.
 
-From creating a production grade PII redaction software in 36 hours to contributing to **BarraOne** (one of the finance industry's flagship portfolio risk platforms) at a 6-month long full time internship, I've always gravitated toward engineering problems that matter.
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="275" alt="NUX_Octodex">
+
+From creating a production grade PII redaction software in 36 hours
+<br> to contributing to **BarraOne** (one of the finance industry's flagship
+<br> portfolio risk platforms) at a 6-month long full time internship,
+<br> I've always gravitated toward engineering problems that matter.
 
 ---
-
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="275" alt="NUX_Octodex">
 
 ## A few things I've built
 
