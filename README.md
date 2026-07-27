@@ -3,10 +3,8 @@
 
 > I build systems with focus on quality more than quantity
 
-From creating a production grade PII redaction software in 36 hours
-<br> to contributing to **BarraOne** (one of the finance industry's flagship
-<br> portfolio risk platforms) at a 6-month long full time internship,
-<br> I've always gravitated toward engineering problems that matter.
+From creating a production grade PII redaction software in 36 hours to contributing to **BarraOne** (one of the finance industry's flagship
+<br> portfolio risk platforms) at a 6-month long full time internship, I've always gravitated toward engineering problems that matter.
 
 ### A few things I've built
 
