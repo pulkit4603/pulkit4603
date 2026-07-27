@@ -2,7 +2,9 @@
 
 > I like building systems that people actually use.
 
-From shipping software for **1,000+ participants** at a national hackathon, to contributing to **BarraOne**—one of the finance industry's flagship portfolio risk platforms—I've always gravitated toward engineering problems that matter.
+From creating a production grade PII redaction software in 36 hours to contributing to **BarraOne** (one of the finance industry's flagship portfolio risk platforms) at a 6-month long full time internship, I've always gravitated toward engineering problems that matter.
+
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="275" alt="NUX_Octodex">
 
 ---
 
