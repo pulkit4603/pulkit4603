@@ -7,6 +7,8 @@ From creating a production grade PII redaction software in 36 hours to contribut
 <br> **BarraOne** (one of the finance industry's flagship portfolio risk platforms) at a 6-month
 <br> full time internship, I've always gravitated toward engineering problems that matter.
 
+---
+
 ### A few things I've built
 
 🏁 **TechRace 2024**
