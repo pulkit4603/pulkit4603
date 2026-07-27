@@ -8,7 +8,7 @@ From creating a production grade PII redaction software in 36 hours
 <br> portfolio risk platforms) at a 6-month long full time internship,
 <br> I've always gravitated toward engineering problems that matter.
 
-## A few things I've built
+### A few things I've built
 
 🏁 **TechRace 2024**
 
